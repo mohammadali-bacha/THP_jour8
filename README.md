@@ -8,4 +8,4 @@ oseus: https://github.com/oseus
 
 Hug-O: https://github.com/Hug-O
 
-Le prograame incubateurs fonctionne, le mairie ne fonctionne pas avec les 2 fonctions reunies et enfin le programme crytpos ne marche pas du tout.
+Le prograame incubateurs fonctionne, le mairie ne fonctionne pas avec les 2 fonctions reunies et enfin le programme trader ne marche pas du tout.
